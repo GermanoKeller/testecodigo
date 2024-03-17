@@ -1,0 +1,1 @@
+Lua bugada( n aparece)
